@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Jen Zhang',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  //description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
   twitter: '',
